@@ -1,0 +1,53 @@
+Our Training Fields
+
+1. invoice_number
+2. vendor_GSTN
+3. vendor_name
+4. invoice_date
+5. net_amount
+6. CGST
+7. SGST
+8. IGST
+9. tax_amount
+10. round_off
+11. total_amount
+
+
+
+If required in future 
+
+1. Discount
+2. Quantity
+3. Cess
+4. HSN/SAC
+5. Amount Due (Balance Amount)
+6. Rate(%)
+7. Address
+8. Product Name (Item Name)
+
+
+Tally Purchase voucher Fields(Major)
+
+1. Supplier Invoice Number
+2. Date
+3. Name of Party Account(Vendor Name)
+4. Purchase Ledger (Purchase Account)
+5. Name of Item (Product Name)
+6. Quantity
+7. Rate
+8. per( Units (Kg, Lit))
+9. Amount
+10. CGST, SGST, IGST
+11. Narration
+
+
+Rest Fields
+
+1. Company VAT 
+2. Buyer VAT
+3. Company CST No. (Central sales tax no)
+4. Mode of payment
+5. Address
+6. Dispatching Through(Mode of Transport)
+
+

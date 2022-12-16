@@ -1,0 +1,13 @@
+{
+    "invoice_number": "#ADP_ZGO50963",
+    "vendor_GSTN": "31CWYQN8099KUFC",
+    "vendor_name": "Fleming, Crawford and Meadows",
+    "invoice_date": "January 24, 2021",
+    "net_amount": "31432.0",
+    "CGST": "0.0",
+    "SGST": "0.0",
+    "IGST": "1414.44",
+    "tax_amount": "1414.44",
+    "round_off": "0.44",
+    "total_amount": "32846.0"
+}

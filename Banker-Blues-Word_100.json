@@ -1,0 +1,13 @@
+{
+    "invoice_number": "QTZ - 484",
+    "vendor_GSTN": "11DDMJY9088F5Y7",
+    "vendor_name": "Adams-Sanchez",
+    "invoice_date": "05-03-2022",
+    "net_amount": "45464.0",
+    "CGST": "0.0",
+    "SGST": "0.0",
+    "IGST": "1022.94",
+    "tax_amount": "1022.94",
+    "round_off": "0.94",
+    "total_amount": "46486.0"
+}

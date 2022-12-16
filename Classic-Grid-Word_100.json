@@ -1,0 +1,13 @@
+{
+    "invoice_number": "07-15/DUG/074",
+    "vendor_GSTN": "13BWCFH9003KAGY",
+    "vendor_name": "Nguyen-Jones",
+    "invoice_date": "27-05-2021",
+    "net_amount": "20011.0",
+    "CGST": "1800.99",
+    "SGST": "1800.99",
+    "IGST": "0.0",
+    "tax_amount": "3601.98",
+    "round_off": "0.98",
+    "total_amount": "23612.0"
+}
